@@ -1,4 +1,3 @@
-
 def sum_of_ints_until_single_digit():
 
     while True:
