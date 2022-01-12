@@ -1,5 +1,3 @@
-# Never done one of these - so excuse the while loop if it was unnecessary (wasn't sure if I'd get DQ'd for syntax errors in the input)
-
 
 def sum_of_ints_until_single_digit():
 
